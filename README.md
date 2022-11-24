@@ -6,7 +6,7 @@ Bad USB using raspberry Pico with 1 payload
 Raspberry pico
 The Raspberry Pi Pico series is a range of tiny, fast, and versatile boards built using RP2040 the flagship microcontroller chip designed by Raspberry Pi in the UK
 
-SS-1
+SS-1[](file:///C:/Users/211369/Downloads/bad%20usb.webp)
 
 Bad Usb
 BadUSB is an attack that exploits an inherent vulnerability in USB firmware. Such an attack reprograms a USB device, causing it to act as a human interface device; once re-engineered, the USB device is used to discreetly execute commands or run malicious programs on the victim's computer.
